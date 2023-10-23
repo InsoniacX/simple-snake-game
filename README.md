@@ -1,2 +1,2 @@
 # SIMPLE SNAKE GAMES 
-# Copyright InsoniacX 2023
+Copyright InsoniacX 2023
